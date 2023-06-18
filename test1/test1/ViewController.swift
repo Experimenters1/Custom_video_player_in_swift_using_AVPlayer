@@ -94,7 +94,7 @@ class ViewController: UIViewController {
         guard let documentsFolderURL = fileManager.urls(for: .documentDirectory, in: .userDomainMask).first else {
             return
         }
-        var myString = "test.mp4"
+        var myString = "IMG_0142.MOV"
         let url = documentsFolderURL.appendingPathComponent(myString)
         
         player = AVPlayer(url: url)
@@ -106,7 +106,9 @@ class ViewController: UIViewController {
         addTimeObserver()
         
         playerLayer = AVPlayerLayer(player: player)
-        playerLayer.videoGravity = .resizeAspectFill
+//        playerLayer.videoGravity = .resizeAspect
+//        playerLayer.videoGravity = .resizeAspectFill
+        playerLayer.videoGravity = .resize
         vieo_view_test.layer.addSublayer(playerLayer)
         setupPlayButtonInsideVideoView()
     }
