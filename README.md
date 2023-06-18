@@ -1,7 +1,7 @@
 # Custom video player in swift using AVPlayer
 Custom video player in swift using AVPlayer
 ![Screenshot 2023-06-15 at 3 46 20 PM](https://github.com/Experimenters1/CustomvideoplayerinswiftusingAVPlayer/assets/64000769/1e249da8-a07c-49b1-a6dd-2db457036284)<br>
-# In iOS, there are three values for the videoGravity attribute of AVPlayerLayer to display videos with different aspect ratios: <br>
+# In iOS, there are three values for the videoGravity attribute of AVPlayerLayer to display videos with different aspect ratios (Trên iOS, có ba giá trị cho thuộc tính videoGravity của AVPlayerLayer để hiển thị video với các tỷ lệ khung hình khác nhau:): <br>
 ![Screenshot 2023-06-18 at 9 10 22 AM](https://github.com/Experimenters1/Custom_video_player_in_swift_using_AVPlayer/assets/64000769/b885ca1c-8bdf-404b-b25e-ac6572972cc3)<br>
 
 1.`.resizeAspect `: This value scales the video to fit within the layer's bounds while maintaining the aspect ratio. The entire video is visible, but there may be letterboxing (black bars) if the aspect ratio of the video and layer do not match.(Video sẽ được hiển thị trong layer với tỷ lệ khung hình gốc, nhưng sẽ được điều chỉnh kích thước để lấp đầy toàn bộ kích thước khung hình của layer mà không bị méo hoặc biến dạng. Phần video không bị cắt đi, nhưng có thể có dải trắng xuất hiện nếu tỷ lệ khung hình của layer và video khác nhau.)<br>
