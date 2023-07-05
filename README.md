@@ -1,5 +1,5 @@
 # Custom video player in swift using AVPlayer
-Custom video player in swift using AVPlayer
+Custom video player in swift using AVPlayer <br><br>
 ![Screenshot 2023-06-15 at 3 46 20 PM](https://github.com/Experimenters1/CustomvideoplayerinswiftusingAVPlayer/assets/64000769/1e249da8-a07c-49b1-a6dd-2db457036284)<br><br>
 
 ![Screenshot 2023-07-05 at 2 23 23 PM](https://github.com/Experimenters1/Custom_video_player_in_swift_using_AVPlayer/assets/64000769/6978375b-49c2-4432-bf4e-0717fbd775f3) <br><br>
