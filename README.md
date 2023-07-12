@@ -23,5 +23,5 @@ Custom video player in swift using AVPlayer <br><br>
 
 These videoGravity values allow developers to control how videos are displayed within AVPlayerLayer in iOS applications, adapting to different aspect ratios and ensuring the desired visual effect.(Bằng cách chọn giá trị phù hợp cho videoGravity, bạn có thể điều chỉnh cách hiển thị video trong AVPlayerLayer trên iOS để đáp ứng nhu cầu của ứng dụng của mình.)<br><br>
 
-<a href="[audio not play when app in background mode in device](https://stackoverflow.com/questions/54231319/audio-not-play-when-app-in-background-mode-in-device)https://stackoverflow.com/questions/54231319/audio-not-play-when-app-in-background-mode-in-device" target="_blank">audio not play when app in background mode in device</a><br><br>
+<a href="[audio not play when app in background mode in device](https://stackoverflow.com/questions/54231319/audio-not-play-when-app-in-background-mode-in-device)https://stackoverflow.com/questions/54231319/audio-not-play-when-app-in-background-mode-in-device" target="_blank">audio_not_play_when_app_in_background_mode_in_device</a><br><br>
 
