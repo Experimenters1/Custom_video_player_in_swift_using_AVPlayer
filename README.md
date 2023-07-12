@@ -25,6 +25,6 @@ These videoGravity values allow developers to control how videos are displayed w
 
 
 
-[audio_not_play_when_app_in_background_mode_in_device](https://stackoverflow.com/questions/54231319/audio-not-play-when-app-in-background-mode-in-device) <br><br>
+[audio not play when app in background mode in device](https://stackoverflow.com/questions/54231319/audio-not-play-when-app-in-background-mode-in-device) <br><br>
 
 
