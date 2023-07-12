@@ -21,5 +21,7 @@ Custom video player in swift using AVPlayer <br><br>
 
 3.`.resize` : This value scales the video to fill the layer's bounds, disregarding the aspect ratio. The video may appear stretched or distorted if the aspect ratio of the video and layer differ. This option does not preserve the original aspect ratio.(Video sẽ được thay đổi kích thước để lấp đầy toàn bộ kích thước khung hình của layer, mà không quan tâm đến tỷ lệ khung hình gốc của video. Điều này có thể làm méo hoặc biến dạng video nếu tỷ lệ khung hình của layer và video khác nhau.)<br><br>
 
-These videoGravity values allow developers to control how videos are displayed within AVPlayerLayer in iOS applications, adapting to different aspect ratios and ensuring the desired visual effect.(Bằng cách chọn giá trị phù hợp cho videoGravity, bạn có thể điều chỉnh cách hiển thị video trong AVPlayerLayer trên iOS để đáp ứng nhu cầu của ứng dụng của mình.)<br>
+These videoGravity values allow developers to control how videos are displayed within AVPlayerLayer in iOS applications, adapting to different aspect ratios and ensuring the desired visual effect.(Bằng cách chọn giá trị phù hợp cho videoGravity, bạn có thể điều chỉnh cách hiển thị video trong AVPlayerLayer trên iOS để đáp ứng nhu cầu của ứng dụng của mình.)<br><br>
+
+<a href="[audio not play when app in background mode in device](https://stackoverflow.com/questions/54231319/audio-not-play-when-app-in-background-mode-in-device)https://stackoverflow.com/questions/54231319/audio-not-play-when-app-in-background-mode-in-device" target="_blank">audio not play when app in background mode in device</a><br><br>
 
