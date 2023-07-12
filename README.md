@@ -27,4 +27,6 @@ These videoGravity values allow developers to control how videos are displayed w
 
 [audio not play when app in background mode in device](https://stackoverflow.com/questions/54231319/audio-not-play-when-app-in-background-mode-in-device) <br><br>
 
+[Force landscape mode in one ViewController using Swift]([https://stackoverflow.com/questions/54231319/audio-not-play-when-app-in-background-mode-in-device](https://stackoverflow.com/questions/27037839/force-landscape-mode-in-one-viewcontroller-using-swift)https://stackoverflow.com/questions/27037839/force-landscape-mode-in-one-viewcontroller-using-swift) <br><br>
+
 
